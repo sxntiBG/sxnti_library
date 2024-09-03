@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: sxnti
+Version: 0.1
+Summary: Librería principalmente para operaciones mátematicas.
+Home-page: https://github.com/sxntibg/sxnti
+Author: Sxnti
+Author-email: zapataospinasantiago8@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+License-File: LICENSE

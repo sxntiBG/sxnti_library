@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+sxnti/__init__.py
+sxnti/operaciones.py
+sxnti.egg-info/PKG-INFO
+sxnti.egg-info/SOURCES.txt
+sxnti.egg-info/dependency_links.txt
+sxnti.egg-info/top_level.txt
+test/test_operaciones.py
